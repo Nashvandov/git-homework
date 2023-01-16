@@ -9,6 +9,6 @@ user.surname = surnamePropmt
 user.age = agePropmt
 
 
-console.log(namePropmt)
+console.log(user.name)
 console.log(user.surname)
 console.log(user.age)
