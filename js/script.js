@@ -1,12 +1,12 @@
 
-let namePropmt = prompt('Ismingiz nima?')
-let surnamePropmt = prompt('familiyangiz nima?')
-let agePropmt = prompt('Yoshingiz nechchida?')
+let namePrompt = prompt('Ismingiz nima?')
+let surnamePrompt = prompt('familiyangiz nima?')
+let agePrompt = prompt('Yoshingiz nechchida?')
 let user = {}
 
-user.name = namePropmt
-user.surname = surnamePropmt
-user.age = agePropmt
+user.name = namePrompt
+user.surname = surnamePrompt
+user.age = agePrompt
 
 
 console.log(user.name)
